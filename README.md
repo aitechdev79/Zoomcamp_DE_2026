@@ -185,3 +185,5 @@ Designing S3 partitioned data lakes
 Using Athena for serverless analytics
 Connecting Python applications to AWS
 Building end-to-end data pipelines
+
+**# Other codes and screenshots can be found in colab_code.ipynb and Athena Screenshos.pdf file. Thank you for reviewing this work.**
