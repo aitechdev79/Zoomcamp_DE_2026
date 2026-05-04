@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+xarray
+netCDF4
+h5netcdf
+boto3
+s3fs
+pyarrow
+fastparquet
+pyathena
+plotly
+matplotlib
+tqdm
